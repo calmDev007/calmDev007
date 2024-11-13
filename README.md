@@ -1,5 +1,5 @@
 ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
-<h1 align="center">Hi 👋, I'm Manish Singh</h1>
+<h1 align="center">Hi 👋, I'm Aaryan Yadav</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 <img align="righ" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **FullStack web devlopment**
 
-- 📫 How to reach me **singh.manishh.224@gmail.com**
+- 📫 How to reach me **yadavaaryan2004@gmail.com**
 
 
 
